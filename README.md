@@ -1,6 +1,5 @@
 # ReactjsSkills
 
-To make the test more **typical** while incorporating **Redux** for state management, the task can be designed to evaluate the candidate's ability to use Redux effectively in a React.js app. Redux is commonly used in real-world applications to manage global state across multiple components, making this a practical test for developers with 5 years of experience.
 
 ### 1-Hour Machine Test (React.js + Redux):
 
